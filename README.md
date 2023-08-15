@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/45159366/134075227-d9e361c6-abb7-47bc-9fae-b20f73649696.png)
+![MasterHead](https://drive.google.com/uc?export=view&id=1zmp4gwiXqQudt9-DDjsgnXWG1J9UwJFN)
 
 <h1 align="center">Hi 👋, I'm Aman Rai</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
