@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanr3277" alt="amanr3277" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Matural Language Processing, LLMs, Generative AI**
 
 - 💬 Ask me about **Java,Python**
 
