@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Aman Rai]
 
 ## About Me
 I'm a final-year B.Tech student at ABES Engineering College, passionate about harnessing technology to solve real-world challenges. My expertise lies in Python and machine learning techniques, and I'm always eager to contribute to cutting-edge projects.
@@ -45,5 +45,5 @@ I'm a final-year B.Tech student at ABES Engineering College, passionate about ha
 ## Honors & Awards
 - Award from CS Department of ABES Engineering College for publishing a patent on App in budget travel.
 
-Feel free to reach out to me at [Your Email](mailto:your.email@example.com).
-Connect with me on [LinkedIn](https://linkedin.com/in/yourusername) | [Hackerrank](https://www.hackerrank.com/yourusername) | [LeetCode](https://leetcode.com/yourusername)
+Feel free to reach out to me at [Your Email](mailto:amanr3277@gmail.com).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-rai-271496203/) | [Hackerrank](https://www.hackerrank.com/profile/2020B1531087) | [GFG](https://auth.geeksforgeeks.org/user/amanr3277)
