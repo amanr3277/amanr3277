@@ -36,7 +36,12 @@ I'm a final-year B.Tech student at ABES Engineering College, passionate about ha
 [GitHub Repo - Real Estate Price Prediction](https://github.com/amanr3277/Real-Estate-Price-Prediction-Project)
 
 ## Skills
-- Analytics, Generative AI, Beautiful Soup, Statistics, Data Analysis, Machine Learning Algorithms, and more.
+- Analytics, Generative AI, Beautiful Soup, Statistics,Java, Python,
+NumPy, Panda, MatPlotlib, Scikit-Learn,TensorFlow,Beautiful Soup
+ Machine Learning, Deep Learning, Natural Language Processing (NLP), LLMs, AI
+ HTML,CSS
+ Git and Github
+ OOPS, SQL, Data Analysis Data Analysis, Machine Learning Algorithms, and more.
 
 ## Patents
 1. INMYPOCKET - An In-Budget Travel Recommendation
