@@ -13,7 +13,7 @@ I'm a final-year B.Tech student at ABES Engineering College, passionate about ha
 - Self-employed, Remote
 
 ### Data Science and Machine Learning Apprenticeship at ABES Engineering College
-- Worked on Data Science, Data Visualization, and Machine Learning projects.
+- Worked on Data Science, Data Visualization, and Machine Learning Fundamentals.
 
 ## Education
 - Bachelor of Technology, Computer Science and Engineering (AI and ML) at ABES Engineering College
@@ -45,5 +45,5 @@ I'm a final-year B.Tech student at ABES Engineering College, passionate about ha
 ## Honors & Awards
 - Award from CS Department of ABES Engineering College for publishing a patent on App in budget travel.
 
-Feel free to reach out to me at [Your Email](mailto:amanr3277@gmail.com).
+Feel free to reach out to me at [Email](mailto:amanr3277@gmail.com).
 Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-rai-271496203/) | [Hackerrank](https://www.hackerrank.com/profile/2020B1531087) | [GFG](https://auth.geeksforgeeks.org/user/amanr3277)
