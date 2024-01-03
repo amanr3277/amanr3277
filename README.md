@@ -50,5 +50,5 @@ NumPy, Panda, MatPlotlib, Scikit-Learn,TensorFlow,Beautiful Soup
 ## Honors & Awards
 - Award from CS Department of ABES Engineering College for publishing a patent on App in budget travel.
 
-Feel free to reach out to me at [Email](mailto:amanr3277@gmail.com).
+Feel free to reach out to me at [amanr3277@gmail.com](mailto:amanr3277@gmail.com).
 Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-rai-271496203/) | [Hackerrank](https://www.hackerrank.com/profile/2020B1531087) | [GFG](https://auth.geeksforgeeks.org/user/amanr3277)
