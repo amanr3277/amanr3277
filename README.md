@@ -35,6 +35,17 @@ I'm a final-year B.Tech student at ABES Engineering College, passionate about ha
 
 [GitHub Repo - Real Estate Price Prediction](https://github.com/amanr3277/Real-Estate-Price-Prediction-Project)
 
+### Streamlit Emotion Detection App
+- Created a user-friendly Streamlit app for emotion detection, integrating natural language processing techniques.
+- Implemented logistic regression with TF-IDF vectorization and label encoding for precise emotion classification (e.g.,
+  joy, fear, anger).
+- Attained high accuracy in emotion prediction, offering users detailed insights into predicted emotions along with
+  associated probability scores..
+
+[GitHub Repo - Streamlit Emotion Detection App](https://github.com/amanr3277/Streamlit-Emotion-Detection-App.git)
+
+
+
 ## Skills
 - Analytics, Generative AI, Beautiful Soup, Statistics,Java, Python,
 NumPy, Panda, MatPlotlib, Scikit-Learn,TensorFlow,Beautiful Soup
