@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Aman Rai]
+# Hi there! 👋 I'm Aman Rai
 
 ## About Me
 I'm a final-year B.Tech student at ABES Engineering College, passionate about harnessing technology to solve real-world challenges. My expertise lies in Python and machine learning techniques, and I'm always eager to contribute to cutting-edge projects.
