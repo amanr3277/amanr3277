@@ -1,8 +1,16 @@
 # Hi there! 👋 I'm Aman Rai
 
 ## About Me
-I'm a final-year B.Tech student at ABES Engineering College, passionate about harnessing technology to solve real-world challenges. My expertise lies in Python and machine learning techniques, and I'm always eager to contribute to cutting-edge projects.
 
+Great! Based on the information you provided, here's an introduction for your GitHub profile:
+
+👋 Hello there! I'm [Your Name], a final-year B.Tech student at ABES Engineering College, on a mission to leverage technology for solving real-world challenges. My journey in the tech world has been shaped by a passion for Python and machine learning techniques.
+
+🚀 Exciting news! I am honored to be the National Winner at Coderangers 2024 (RateGain), showcasing my dedication and skills in the field. As an ex-intern at Times Internet and a final-year student at ABESEC, I've gained valuable industry experience and honed my abilities to contribute to cutting-edge projects.
+
+💻 My technical toolkit includes proficiency in Python (DSA), NumPy, Panda, Matplotlib, Scikit-Learn, TensorFlow, and Beautiful Soup. I thrive in the realms of Analytics, Generative AI, Statistics, and Natural Language Processing (NLP). Machine Learning Algorithms and Deep Learning are my forte, and I'm fascinated by the power of Large Language Models (LLMs).
+
+🔧 When it comes to coding, HTML, CSS, Git, and GitHub are my trusted companions. Object-Oriented Programming (OOPs), SQL, and Data Analysis are also part of my skill set.
 ## Experience
 ### ML Intern at Times Internet
 - Developed a 360-degree user profile system, enhancing targeted ad display effectiveness.
