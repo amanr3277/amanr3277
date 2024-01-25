@@ -9,7 +9,7 @@
 
 🔧 When it comes to coding, HTML, CSS, Git, and GitHub are my trusted companions. Object-Oriented Programming (OOPs), SQL, and Data Analysis are also part of my skill set.
 ## Experience
-### ML Intern at Times Internet
+### Live Project Intern Intern at Times Internet
 - Developed a 360-degree user profile system, enhancing targeted ad display effectiveness.
 - Led an intent classification project using DistilBERT, achieving high accuracy in text data categorization.
 - Contributed to the creation of a robust model for personalized content delivery.
