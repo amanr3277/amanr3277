@@ -1,7 +1,7 @@
 
 
 ## About Me
-👋 Hello there! I'm [Aman Rai], a final-year B.Tech student at ABES Engineering College, on a mission to leverage technology for solving real-world challenges. My journey in the tech world has been shaped by a passion for Python and machine learning techniques.
+👋 Hello there! I'm Aman Rai, a final-year B.Tech student at ABES Engineering College, on a mission to leverage technology for solving real-world challenges. My journey in the tech world has been shaped by a passion for Python and machine learning techniques.
 
 🚀 Exciting news! I am honored to be the National Winner at Coderangers 2024 (RateGain), showcasing my dedication and skills in the field. As an ex-intern at Times Internet and a final-year student at ABESEC, I've gained valuable industry experience and honed my abilities to contribute to cutting-edge projects.
 
