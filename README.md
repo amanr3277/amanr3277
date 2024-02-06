@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Rai</h1>
-<h3 align="center">A passionate frontend developer frNational Winner @CodeRangers 2024 (RateGain) | Ex-Intern @ Times Internet | Final Year Student @ ABESEC | AIML Enthusiastom India</h3>
+<h3 align="center">National Winner @CodeRangers 2024 (RateGain) | Ex-Intern @ Times Internet | Final Year Student @ ABESEC | AIML Enthusiastom India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanr3277&label=Profile%20views&color=0e75b6&style=flat" alt="amanr3277" /> </p>
 
