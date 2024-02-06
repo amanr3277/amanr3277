@@ -1,70 +1,21 @@
+<h1 align="center">Hi 👋, I'm Aman Rai</h1>
+<h3 align="center">A passionate frontend developer frNational Winner @CodeRangers 2024 (RateGain) | Ex-Intern @ Times Internet | Final Year Student @ ABESEC | AIML Enthusiastom India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanr3277&label=Profile%20views&color=0e75b6&style=flat" alt="amanr3277" /> </p>
 
-## About Me
-👋 Hello there! I'm Aman Rai, a final-year B.Tech student at ABES Engineering College, on a mission to leverage technology for solving real-world challenges. My journey in the tech world has been shaped by a passion for Python and machine learning techniques.
+- 📫 How to reach me **amanr3277@gmail.com**
 
-🚀 Exciting news! I am honored to be the National Winner at Coderangers 2024 (RateGain), showcasing my dedication and skills in the field. As an ex-intern at Times Internet and a final-year student at ABESEC, I've gained valuable industry experience and honed my abilities to contribute to cutting-edge projects.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aman rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman rai" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/amanr3277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amanr3277" height="30" width="40" /></a>
+</p>
 
-💻 My technical toolkit includes proficiency in Python (DSA), NumPy, Panda, Matplotlib, Scikit-Learn, TensorFlow, and Beautiful Soup. I thrive in the realms of Analytics, Generative AI, Statistics, and Natural Language Processing (NLP). Machine Learning Algorithms and Deep Learning are my forte, and I'm fascinated by the power of Large Language Models (LLMs).
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-🔧 When it comes to coding, HTML, CSS, Git, and GitHub are my trusted companions. Object-Oriented Programming (OOPs), SQL, and Data Analysis are also part of my skill set.
-## Experience
-### Live Project Intern at Times Internet
-- Developed a 360-degree user profile system, enhancing targeted ad display effectiveness.
-- Led an intent classification project using DistilBERT, achieving high accuracy in text data categorization.
-- Contributed to the creation of a robust model for personalized content delivery.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanr3277&show_icons=true&locale=en&layout=compact" alt="amanr3277" /></p>
 
-### Software Engineering Virtual Experience at JPMorgan Chase & Co.
-- Self-employed, Remote
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanr3277&show_icons=true&locale=en" alt="amanr3277" /></p>
 
-### Data Science and Machine Learning Apprenticeship at ABES Engineering College
-- Worked on Data Science, Data Visualization, and Machine Learning Fundamentals.
-
-## Education
-- Bachelor of Technology, Computer Science and Engineering (AI and ML) at ABES Engineering College
-  - Dec 2020 - Jul 2024
-  - CGPA: 8.12
-
-## Projects
-### Farmers Friend: Intelligent Crop Assistant
-- Empowered Indian farmers with data-driven crop predictions.
-- Developed a K-Nearest Neighbors algorithm for optimal crop choices.
-- Designed a user-friendly app interface for sustainable agriculture.
-
-[GitHub Repo - Farmers Friend](https://github.com/amanr3277/Farmers-Friend-Intelligent-Crop-Assistant)
-
-### Real Estate Price Prediction Website
-- Developed from scratch using Scikit-learn for model building.
-- Engineered a Python Flask server for real-time predictions.
-- Designed an intuitive web interface with HTML, CSS, and JavaScript.
-
-[GitHub Repo - Real Estate Price Prediction](https://github.com/amanr3277/Real-Estate-Price-Prediction-Project)
-
-### Streamlit Emotion Detection App
-- Created a user-friendly Streamlit app for emotion detection, integrating natural language processing techniques.
-- Implemented logistic regression with TF-IDF vectorization and label encoding for precise emotion classification (e.g.,
-  joy, fear, anger).
-- Attained high accuracy in emotion prediction, offering users detailed insights into predicted emotions along with
-  associated probability scores..
-
-[GitHub Repo - Streamlit Emotion Detection App](https://github.com/amanr3277/Streamlit-Emotion-Detection-App.git)
-
-
-
-## Skills
-- Analytics, Generative AI, Beautiful Soup, Statistics,Java, Python,
-NumPy, Panda, MatPlotlib, Scikit-Learn,TensorFlow,Beautiful Soup
- Machine Learning, Deep Learning, Natural Language Processing (NLP), LLMs, AI
- HTML,CSS
- Git and Github
- OOPS, SQL, Data Analysis Data Analysis, Machine Learning Algorithms, and more.
-
-## Patents
-1. INMYPOCKET - An In-Budget Travel Recommendation
-2. An Artificial Intelligence-Based Portable Smart Rocker
-
-## Honors & Awards
-- Award from CS Department of ABES Engineering College for publishing a patent on App in budget travel.
-
-Feel free to reach out to me at [amanr3277@gmail.com](mailto:amanr3277@gmail.com).
-Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-rai-271496203/) | [Hackerrank](https://www.hackerrank.com/profile/2020B1531087) | [GFG](https://auth.geeksforgeeks.org/user/amanr3277)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanr3277&" alt="amanr3277" /></p>
