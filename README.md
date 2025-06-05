@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Rai</h1>
 
 <h3 align="center">
-  National Winner @CodeRangers 2024 (RateGain) | Ex-Intern @ Times Internet | Final Year B.Tech Student @ ABES Engineering College | AIML Enthusiast
+  SDE @RateGain | AirGain (Pricing Software by RateGain) | SaaS Product | Unstop's Top 80 Competitive E-School Leader, 2024 | National Winner @CodeRangers 2024 (RateGain) | Ex-Intern @ Times Internet | AIML Enthusiast
 </h3>
 
 <p align="center">
