@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Rai</h1>
 
 <h3 align="center">
-Software Development Engineer @ RateGain | Backend Developer | Generative AI & LLM Engineer | Python | C# | .NET | LangChain | RAG | AI Enthusiast
+Software Development Engineer @ RateGain • Backend Engineer • Generative AI & LLM Engineer • Building Intelligent AI Systems with Python, LangChain, RAG & Agentic AI
 </h3>
 
 <p align="center">
