@@ -1,62 +1,137 @@
 <h1 align="center">Hi 👋, I'm Aman Rai</h1>
 
 <h3 align="center">
-  SDE @RateGain | AirGain (Pricing Software by RateGain) | SaaS Product | Unstop's Top 80 Competitive E-School Leader, 2024 | National Winner @CodeRangers 2024 (RateGain) | Ex-Intern @ Times Internet | AIML Enthusiast
+Software Development Engineer @ RateGain | Backend Developer | Generative AI & LLM Engineer | Python | C# | .NET | LangChain | RAG | AI Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanr3277&label=Profile%20views&color=0e75b6&style=flat" alt="amanr3277" />
+  <img src="https://komarev.com/ghpvc/?username=amanr3277&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-### 💻 Skills  
+# 🚀 About Me
+
+- 💼 Software Development Engineer at **RateGain**
+- 🖥️ Building scalable backend systems and AI-powered applications
+- 🤖 Passionate about **Generative AI, LLMs, RAG, AI Agents, NLP, and Machine Learning**
+- 🌱 Currently exploring **Production AI Systems, LangGraph, MCP, and Agentic AI**
+- 🏆 National Winner – **CodeRangers 2024**
+- 🥇 Unstop Top 80 Competitive E-School Leader (2024)
+- 🎯 Interested in Backend Engineering, AI Engineering, and Data Engineering
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Backend Development
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+
+### AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+### 🩺 Medical Chatbot (RAG + Groq + LangChain)
+- Retrieval-Augmented Generation (RAG)
+- LangChain Retrieval Chain
+- Hugging Face Embeddings
+- FAISS Vector Database
+- Groq Llama 3.1
+- PDF Question Answering
+
+---
+
+### ✈️ Airfare Pricing Intelligence
+Backend automation and pricing intelligence workflows for airline pricing analytics.
+
+---
+
+### 🌾 Crop Recommendation System
+Machine Learning model for crop prediction using soil and weather data.
+
+---
+
+### 🏠 Real Estate Price Prediction
+Regression-based ML model for property price estimation.
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-00599C?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-BB4B96?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-10224D?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FCC625?style=for-the-badge&logo=hugging-face&logoColor=black" />
-  <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amanr3277&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=amanr3277&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanr3277&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 👨‍💻 Projects  
-Explore my work on backend development, AI/ML, and data-driven solutions:  
-[https://github.com/amanr3277?tab=repositories](https://github.com/amanr3277?tab=repositories)
+# 🏆 Achievements
 
-### 📫 Contact Me  
-Email: **amanr3277@gmail.com**
-
-### 🔗 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/aman-rai-271496203/) | [GitHub](https://github.com/amanr3277)
+- 🥇 National Winner — CodeRangers 2024
+- 🏅 Unstop Top 80 Competitive E-School Leader
+- 💼 Software Development Engineer @ RateGain
+- 🤖 AI & Generative AI Enthusiast
 
 ---
 
-### About Me  
-- Software Development Engineer (Backend) @ RateGain (AirGain SaaS Product)  
-- Skilled in Python, C#, .NET, Django, Flask, REST APIs, SQL, and cloud tools like GCP BigQuery  
-- Passionate about developing scalable backend systems, AI-powered solutions, and NLP applications  
-- National Winner of RateGain's CodeRangers 2024 Hackathon  
-- Experienced GenAI NLP intern at Times Internet focusing on auto-categorization using DistilBERT  
-- Projects include AI-driven Suicide Threat Identification, Intelligent Crop Recommendation, and Real Estate Price Prediction
+# 🌐 Connect With Me
+
+📧 **Email:** amanr3277@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/aman-rai-271496203/
+
+💻 **GitHub:** https://github.com/amanr3277
 
 ---
 
-### Interests  
-Cricket 🏏 | Chess ♟️ | Traveling 🌍 | Social Activities 🤝 | Photography 📸
+# 💡 Interests
+
+- Generative AI
+- Large Language Models (LLMs)
+- AI Agents
+- Backend Development
+- Distributed Systems
+- Cloud Computing
+- Open Source
+- Data Engineering
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
