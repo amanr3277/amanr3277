@@ -71,8 +71,8 @@ Software Development Engineer @ RateGain • Backend Engineer • Generative AI 
 
 ---
 
-### ✈️ Airfare Pricing Intelligence
-Backend automation and pricing intelligence workflows for airline pricing analytics.
+###  Intelligent Web Scraping & Data Extraction Platform
+Backend automation and pricing intelligence workflows for airline AND cruiseline pricing analytics.
 
 ---
 
